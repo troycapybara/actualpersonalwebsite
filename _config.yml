@@ -2,7 +2,7 @@
 baseurl: ""
 url: "troydemers.me"
 title: Troy Demers # site's title
-description: "(Currently) Unknown New Jersey-based poet, copywriter, musician, photographer, video editor, content creator and consumer." # used by search engines
+description: "Troy Demers"# used by search engines
 
 defaults:
   - 
