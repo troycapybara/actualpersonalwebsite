@@ -35,7 +35,7 @@ theme_settings:
   gitlab:
   github: "sylhare"
   google_plus:
-  instagram: https://www.instagram.com/troycapybara/
+  instagram: troycapybara/
   keybase:
   linkedin:  # Full URL
   pinterest:
@@ -47,7 +47,7 @@ theme_settings:
   twitter: troykdemers # "twitter username"
   vimeo:
   wordpress:
-  youtube: https://www.youtube.com/channel/UCAfBokrihGD-HmcsoxO7WjA/videos
+  youtube: UCAfBokrihGD-HmcsoxO7WjA/videos
 
   # Sharing options
   share_buttons:
