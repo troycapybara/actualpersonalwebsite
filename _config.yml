@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "troydemers.me"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Troy Demers # site's title
+description: "(Currently) Unknown New Jersey-based poet, copywriter, musician, photographer, video editor, content creator and consumer." # used by search engines
 
 defaults:
   - 
