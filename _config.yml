@@ -2,7 +2,7 @@
 baseurl: ""
 url: "troydemers.me"
 title: Troy Demers # site's title
-description: "Troy Demers"# used by search engines
+description: "TKD"# used by search engines
 
 defaults:
   - 
