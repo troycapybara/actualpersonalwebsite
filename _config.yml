@@ -19,14 +19,14 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: Change header text in <code>_config.yml</code>
+  header_text: (Currently) Unemployed New Jersey-based poet, copywriter, designer, musician, multimedia expert, content creator and consumer.</code>
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: troydemers@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
@@ -44,7 +44,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: troykdemers # "twitter username"
   vimeo:
   wordpress:
   youtube:
