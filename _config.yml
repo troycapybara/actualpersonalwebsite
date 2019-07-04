@@ -15,7 +15,7 @@ defaults:
 theme_settings:
   # Meta
   avatar: assets/img/logo.png
-  color_image: /assets/img/coverphoto.png # In post when you set color
+  color_image: assets/img/coverphoto.png # In post when you set color
   favicon: assets/favicon.ico
 
   # Header and footer text
