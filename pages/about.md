@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-Troy Demers is a 22 year old recent graduate from Marist College in Poughkeepsie, NY
+Troy Demers is a recent graduate from Marist College in Poughkeepsie, NY
 
 Since it's weird to speak about yourself in the third person, 
 /I/ am currently seeking a job working creatively!
