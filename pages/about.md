@@ -16,7 +16,7 @@ I have a background in social media / digital marketing, completing two internsh
 
 I also do and like other things too. I'm a photographer, [videographer + editor](https://www.youtube.com/watch?v=kXe8vhIlnxU), [video essayist](https://www.youtube.com/watch?v=o5yhrvL8e-k&t=35s), poet (and I do, in fact, know it), writer, and big content guy.
 
-Follow my twitter and let's chat! @troykdemers
+Follow my twitter and let's chat! [@troykdemers](https://twitter.com/troykdemers)
 
  
  
