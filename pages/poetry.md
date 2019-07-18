@@ -2,7 +2,7 @@
 layout: page
 title: Poetry
 permalink: /poetry/
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/img/poetrycover.png"
 tags: [Poetry, Store]
 ---
 
