@@ -1,8 +1,8 @@
 ---
 layout: post
 title: test
-feature-img: "assets/img/0.png"
-img: "assets/img/0.png"
+feature-img: "assets/img/4.png"
+img: "assets/img/4.png"
 date: Fall 2018 Semester
 tags: [advertising]
 ---
