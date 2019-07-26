@@ -3,7 +3,7 @@ layout: post
 title: Wienerschnitzel Campaign
 feature-img: "assets/img/portfolio/hotdog.png"
 img: "assets/img/portfolio/hotdog.png"
-date: Fall 2018 Semester
+date: 2018-09-01
 tags: [advertising]
 ---
 ![image]({{ page.img | relative_url }})
