@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wienerschnitzel Campaign
+title: Campaign
 feature-img: "assets/img/portfolio/hotdog.png"
 img: "assets/img/portfolio/hotdog.jpeg"
 date: 2018-09-01
