@@ -2,6 +2,7 @@
 layout: post
 title: Donald Glover
 tags: [TV, Thoughts, My life, Music]
+feature-img: "assets/img/covertemplate.png"
 img: "assets/img/bino.jpg"
 color: green
 ---
