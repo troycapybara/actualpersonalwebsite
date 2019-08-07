@@ -2,8 +2,11 @@
 layout: post
 title: Donald Glover
 tags: [TV, Thoughts, My life, Music]
+img: "assets/img/bino.jpg"
 color: green
 ---
+
+![image]({{ page.img | relative_url }})
 
 This summer, I've been rewatching the phenomenal NBC sitcom "Community." It started with me rewatching the Dungeons and Dragons themed episode because my friends and I recently started our own campaign, but once I started my re-watch, I couldn't stop. The writing is a major bright spot, as each episode feels fresh and unique, but each character is so well defined that it's very rewarding to watch them engage with the crazy situations they are put into. The western-themed paintball fight episodes are iconic, the blanket vs. pillow fort war documentary theme episode is spectacularly over-the-top, and the Law and Order: SVU style episode about a smashed yam in Biology Lab is a strong indicator of the Community writers' boundless creativity. However, another bright spot for the show is the acting. Joel Mchale is perfectly hateable as Jeff Winger, the de facto (and douchey) leader of the group, and Alison Brie is also a great actress. 
 
