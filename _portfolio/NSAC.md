@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Campaign
-feature-img: "assets/img/nsac.png"
-img: "assets/img/portfolio/hotdog.jpeg"
+title: NSAC Campaign
+feature-img: "assets/img/portfolio/NSAC.png"
+img: "assets/img/portfolio/NSAC.png"
 date: 2018-09-01
 tags: [advertising]
 ---
