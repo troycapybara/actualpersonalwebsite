@@ -1,8 +1,13 @@
----
+--- 
+feature-img: assets/img/portfolio/vikingfeature.png
+img: assets/img/portfolio/vikingicon.jpg
 layout: post
-title: Viking Cruise Line Lead Generation Campaign
-feature-img: "assets/img/portfolio/vikingfeature.png"
-img: "assets/img/portfolio/vikingicon.jpg"
+tags: 
+  - advertising
+  - photoshop
+  - "lead generation"
+title: "Viking Cruise Line Lead Generation Campaign"
+date: 2019-05-01
 tags: [advertising, photoshop, lead generation]
 ---
 
