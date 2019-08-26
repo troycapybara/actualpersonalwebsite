@@ -1,5 +1,5 @@
 --- 
-feature-img: assets/img/portfolio/vikingfeature.png
+feature-img: assets/img/portfolio/darkblue.png
 img: assets/img/portfolio/vikingicon.jpg
 layout: post
 tags: 
