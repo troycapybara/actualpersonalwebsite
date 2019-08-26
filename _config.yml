@@ -3,7 +3,6 @@ baseurl: ""
 url: "troydemers.me"
 title: Troy Demers # site's title
 description: TKD # used by search engines
-
 defaults:
   - 
     scope:
