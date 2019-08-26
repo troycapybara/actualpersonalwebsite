@@ -4,7 +4,7 @@ title: NSAC Campaign
 feature-img: "assets/img/portfolio/ad.png"
 img: "assets/img/portfolio/NSAC.png"
 date: 2018-09-01
-tags: [advertising]
+tags: [advertising, photoshop, design, copywriting]
 ---
 
 ![image]({{ page.img | relative_url }})
