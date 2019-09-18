@@ -19,8 +19,8 @@ Our final capstone project was to create a B2C campaign for a brand or product t
 
 We did a situational analysis to narrow the focus for our campaign and identify the buisness opportunity that we would capitalize on. Based on the opportunity, we created a target audience profile and then created three unique buyer personas to bring our target audience to life. Then we put all of our research together with our creativity and used the insights gained from the istuational analysis, target audience profile, and buyer personas to develop a lead generation strategy that included objectives, targets, buyer personas, value propositions, offers, creative messaging, overarching strategies, and conversion tactics. This was all to be displayed on a touchpoint map or iconograph, and rationale was to be provided for each step of the process.
 
-I created, copywrote, and designed several examples of creatively designed emails that we could send to potential customers after they engaged with one of the brand's soft offers. In addition, I created, copywrote, and designed banner and Facebook ads to draw attention to these soft offers. The examples of my designs can be viewed at [the link]. (https://drive.google.com/open?id=1IVzJgTLLov_0k5nUu3kj-Jh3lg_C9AkZ)
+I created, copywrote, and designed several examples of creatively designed emails that we could send to potential customers after they engaged with one of the brand's soft offers. In addition, I created, copywrote, and designed banner and Facebook ads to draw attention to these soft offers. The examples of my designs can be viewed at [the link](https://drive.google.com/open?id=1IVzJgTLLov_0k5nUu3kj-Jh3lg_C9AkZ)
 
-The entire book can be viewed [here].(https://drive.google.com/open?id=1VsyaGoi-XnTM6ap15HTI51GKYPghh9Zs)
+The entire book can be viewed [here](https://drive.google.com/open?id=1VsyaGoi-XnTM6ap15HTI51GKYPghh9Zs)
 
 
