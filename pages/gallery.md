@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-subtitle: Pictues (of me and other things)
+subtitle: Pictures (of me and other things)
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 tags: [Gallery, Photo]
