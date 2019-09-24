@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minute Media
-feature-img: "assets/img/portfolio/clouds.png"
+feature-img: "assets/img/portfolio/bocloud.jpg"
 img: "assets/img/portfolio/minutemedialogo.png"
 date: 2018-06-01
 tags: [advertising, photoshop, design, copywriting]
