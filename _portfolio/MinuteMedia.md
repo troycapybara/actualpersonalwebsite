@@ -20,7 +20,7 @@ The reason I knew that these Cubs fans loved that player so much was because I p
 Since the 12up office was such a tight-knit unit, I also got the opportunity to post on the company's flagship social media pages when I had an especially creative idea and the chief social director particularly liked one of my posts. One of my favorite examples of this was on Father's Day, when I was posting on the Golden State Warriors Facebook. I got the idea to joke that LeBron James was Steph Curry's son, as Steph's Warriors had beaten LeBron's Cavs in 3 of the past 4 NBA Finals. I photoshopped LeBron's crying face onto a picture of Steph holding his child, and the entire newsroom lost it. It was immediately decided it would be crossposted to the main 12up Facebook and it became one of my favorite memories of the whole summer.
 ![Steph](https://raw.githubusercontent.com/troycapybara/actualpersonalwebsite/master/assets/img/portfolio/steph.png)
 
-Lastly, as a part of this internship I would give monthly social reports on my posts, as a way to let my bosses know how my content was performing, as well as synthesizing the information for myself. An example of one of these reports for my beloved New York Yankees (kiss the rings baby!) can be found at [this link](https://drive.google.com/open?id=1W6-FQ2iA138EIuky9VD19ZS3jcPf4V9-)
+Lastly, as a part of this internship I would give monthly social reports on my posts, as a way to let my bosses know how my content was performing, as well as synthesizing the information for myself. An example of one of these reports for my beloved New York Yankees (kiss the rings baby!) can be found at [this link](https://drive.google.com/open?id=1W6-FQ2iA138EIuky9VD19ZS3jcPf4V9-).
 
 ![image]({{ page.img | relative_url }})
 
