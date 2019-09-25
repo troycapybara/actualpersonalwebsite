@@ -16,7 +16,7 @@ One of the biggest passions throughout my entire life has been making YouTube vi
 [![https://i.imgur.com/NfjHHf7.png](http://img.youtube.com/vi/LVHjeIzImn4/0.jpg)](http://www.youtube.com/watch?v=LVHjeIzImn4 "Sylvia Plath: Through the Mirror of History")
 
 
-[![https://i.imgur.com/05Ot7Sg.png](http://img.youtube.com/vi/DQd5MUNhHAo/0.jpg)](http://www.youtube.com/watch?v=DQd5MUNhHAo "Ad Review: Apple Edition ("What's A Computer" & "Animoji Yourself")")
+[![https://i.imgur.com/05Ot7Sg.png](http://img.youtube.com/vi/DQd5MUNhHAo/0.jpg)](http://www.youtube.com/watch?v=DQd5MUNhHAo "Ad Review: Apple Edition ("What's A Computer" & "Animoji Yourself")
 
 [![https://i.imgur.com/i1djSxk.png](http://img.youtube.com/vi/43SAL-e22Q8/0.jpg)](http://www.youtube.com/watch?v=43SAL-e22Q8 "Yung Capy Show - Episode 5")
 
