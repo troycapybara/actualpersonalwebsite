@@ -10,6 +10,8 @@ defaults:
     values:
       image: assets/img/triangle.png # seo tag
 
+google_analytics: UA-150362528-1
+
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
