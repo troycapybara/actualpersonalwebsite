@@ -3,6 +3,7 @@ baseurl: ""
 url: "troydemers.me"
 title: Troy Demers # site's title
 description: TKD # used by search engines
+tagline: Troy Demers is an influencer marketing manager.
 defaults:
   - 
     scope:
