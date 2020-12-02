@@ -6,6 +6,13 @@ feature-img: "assets/img/header.jpg"
 Description: Ole Miss Rebels Wide Reciever and Egg Bowl Legend Elijah Moore is leading the SEC and NCAA in recieving yards after week 13 of play. Will NFL teams, scouts, and GM's take a chance on him in the 1st round of the 2021 NFL Draft? It may depend on his combine performance.
 img: "assets/img/elijah.jpg"
 youtubeId: PUe20D5zjrs
+ {% if page.image %}
+    <meta property="og:image" content="{{page.image}}" />
+    <meta name="twitter:image" content="{{page.image}}" />
+  {% else %}
+    <meta property="og:image" content="https://ftw.usatoday.com/wp-content/uploads/sites/90/2019/11/moore.jpg?w=1000&h=600&crop=1" />
+    <meta name="twitter:image" content="https://ftw.usatoday.com/wp-content/uploads/sites/90/2019/11/moore.jpg?w=1000&h=600&crop=1" />
+  {% endif %}
 color: red
 ---
 ![image]({{ page.img | relative_url }})
