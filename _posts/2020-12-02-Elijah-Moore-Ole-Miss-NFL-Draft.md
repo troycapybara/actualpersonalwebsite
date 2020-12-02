@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Could Ole Miss' Elijah Moore be a First Round NFL Draft Pick in 2021?
-tags: [sports, college football, SEC]
+tags: [sports, college football, SEC, NFL Draft]
 feature-img: "assets/img/header.jpg"
 Description: Ole Miss Rebels Wide Reciever and Egg Bowl Legend Elijah Moore is leading the SEC and NCAA in recieving yards after week 13 of play. Will NFL teams, scouts, and GM's take a chance on him in the 1st round of the 2021 NFL Draft? It may depend on his combine performance.
 img: "assets/img/elijah.jpg"
