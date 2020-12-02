@@ -12,6 +12,9 @@ defaults:
 
 google_analytics: UA-150362528-1
 
+plugins:
+  - jekyll-seo-tag
+
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
