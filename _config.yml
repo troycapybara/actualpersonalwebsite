@@ -11,6 +11,8 @@ defaults:
     values:
       image: assets/img/triangle.png # seo tag
 
+future: true
+
 google_analytics: UA-150362528-1
 
 plugins:
