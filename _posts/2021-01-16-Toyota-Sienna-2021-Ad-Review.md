@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Youtube Video! 2021 Toyota Sienna Ad Review: Lucky
+title: New Youtube Video! 2021 Toyota Sienna Lucky Ad Review 
 tags: [advertising, youtube, commericals]
 feature-img: "assets/img/header.jpg"
 Description: I did a advertisement / commerical review for the 2021 Toyota Sienna Minivan. Hear my thoughts on how Toyota executed this marketing campaign
