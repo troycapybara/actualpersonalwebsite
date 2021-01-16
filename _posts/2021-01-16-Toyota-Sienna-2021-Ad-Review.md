@@ -15,15 +15,15 @@ youtubeId: YZNS7Ob5Z64&t
   {% endif %}
 color: red
 ---
-![image]({{ page.img | relative_url }})
-
 Hey everyone, it's my first post of 2021 so I figured I'd start out by wishing everyone a Happy New Year. Things hopefully cannot get any worse than they were in 2021.
 
 This year, I'm building a brand new PC which I figure should lead to having more bandwith and opportunities to pursue creative projects like this website and also my YouTube channel. Even though the PC isn't built yet, I wanted to start out the year right, with a creative project to get me in the swing of things.
 
 I had seen this "Lucky" commercial for the Toyota Sienna minivan a few times while watching football, where the driver and passengers are VIPs driving to a theater and getting backstage. I immediately had a lot of thoughts about it, so I play the full 30 second ad spot, as well as give my thoughts in the video below. Check it out and let me know what you think. And as always, don't forget to subscribe!
 
+<p align="center">
 [![](http://img.youtube.com/vi/YZNS7Ob5Z64/0.jpg)](http://www.youtube.com/watch?v=YZNS7Ob5Z64 "sienna")
+</p>
 
 -Troy
 
