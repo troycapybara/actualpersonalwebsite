@@ -23,7 +23,7 @@ However, there’s another piece to the story that may make NFL teams think twic
 
 Watch Video of the infamous moment here - later dubbed - “The Piss, the Miss, and the Double Dismiss” 
 
-{% include youtubePlayer.html id=page.youtubeId %}
+[![](http://img.youtube.com/vi/PUe20D5zjrs/0.jpg)](http://www.youtube.com/watch?v=PUe20D5zjrs "elijah")
 
 This is one of my favorite moments in College Football history, and I admit, I clowned on Moore for it for a little while. But he came out this season re-focused on his goals, and it’s shown on the field so far this year. In addition to leading the NCAA in receiving yards, he also [broke](https://www.si.com/college/olemiss/football/elijah-moore-breaks-a-j-browns-ole-miss-receptions-record-in-egg-bowl) the Ole Miss single season receiving yards record in this year’s edition of the Egg Bowl, taking it away from current Titans star AJ Brown. Also, keep in mind that he’s done this in far less games than every other receiver who’s played there has had. And Ole Miss has had no shortage of Wide Receiver talent throughout the years, with players like Brown, Seahawks standout DK Metcalf, super athletic Laquon Treadwell, and solid NFL starter Mike Wallace. 
 
