@@ -5,7 +5,7 @@ tags: [advertising, youtube, commericals]
 feature-img: "assets/img/header.jpg"
 Description: I did a advertisement / commerical review for the 2021 Toyota Sienna Minivan. Hear my thoughts on how Toyota executed this marketing campaign
 img: "assets/img/sienna.jpg"
-youtubeId: YZNS7Ob5Z64
+youtubeId: YZNS7Ob5Z64&t
  {% if page.image %}
     <meta property="og:image" content="{{page.image}}" />
     <meta name="twitter:image" content="{{page.image}}" />
@@ -24,5 +24,7 @@ This year, I'm building a brand new PC which I figure should lead to having more
 I had seen this "Lucky" commercial for the Toyota Sienna minivan a few times while watching football, where the driver and passengers are VIPs driving to a theater and getting backstage. I immediately had a lot of thoughts about it, so I play the full 30 second ad spot, as well as give my thoughts in the video below. Check it out and let me know what you think. And as always, don't forget to subscribe!
 
 {% include youtubePlayer.html id=page.youtubeId %}
+
+-Troy
 
 
