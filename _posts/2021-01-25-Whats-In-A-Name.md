@@ -6,7 +6,13 @@ page.summary: many people are wondering this
 feature-img: "assets/img/thonk.jpg"
 Description: I did an etymology report on the first name Troy and last name Demers, talked about religion, the bible, elon musk, hockey, and the peanuts comic strips
 img: "assets/img/thonk.jpg"
-summary_large_image: "https://i.imgur.com/QMEpfLE.jpg"
+ {% if page.image %}
+    <meta property="og:image" content="{{page.image}}" />
+    <meta name="twitter:image" content="{{page.image}}" />
+  {% else %}
+    <meta property="og:image" content="https://i.imgur.com/QMEpfLE.jpg" />
+    <meta name="twitter:image" content="https://i.imgur.com/QMEpfLE.jpg" />
+  {% endif %}
 color: yellow
 ---
 What’s in a name? Today, I take it upon myself to answer that question. Well, to start, a name is an identification, usually of letters, that helps to identify a person, place, or thing. The letters caveat is in there because Elon Musk was one of the thousands of folks who “broke the internet” over the last half decade of that phrase’s overuse by naming his kid something dumb like X-Æ-12 or something else equally asinine, don’t feel like googling “elon musk kid name” and adding to that Google Trend any more than at all necessary because that kid is already going to be scarred enough. And there was also that one kid from the Peanuts comic strip who was named 5 because his Dad was suffering from some sort of weird existential crisis, I always thought that was pretty cool as a 10 year old.
