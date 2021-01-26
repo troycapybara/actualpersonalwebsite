@@ -5,7 +5,7 @@ tags: [writing, personal]
 feature-img: "assets/img/thonk.jpg"
 Description: I did an etymology report on the first name Troy and last name Demers, talked about religion, the bible, elon musk, hockey, and the peanuts comic strips
 img: "assets/img/thonk.jpg preview=TRUE"
-twitter:card
+<meta name="twitter:card" content="summary_large_image">
 color: yellow
 ---
 ![image]({{ page.img preview=TRUE | relative_url }})
