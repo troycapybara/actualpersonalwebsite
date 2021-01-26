@@ -5,15 +5,8 @@ tags: [writing, personal]
 feature-img: "assets/img/thonk.jpg"
 Description: I did an etymology report on the first name Troy and last name Demers, talked about religion, the bible, elon musk, hockey, and the peanuts comic strips
 img: "assets/img/thonk.jpg"
-preview: "assets/img/thonk.jpg"
- {% if page.image %}
-    <meta property="og:image" content="{{page.image}}" />
-    <meta name="twitter:image" content="{{page.image}}" />
-  {% else %}
-    <meta property="og:image" content="https://ftw.usatoday.com/wp-content/uploads/sites/90/2019/11/moore.jpg?w=1000&h=600&crop=1"
-    />
-    <meta name="twitter:image" content="https://ftw.usatoday.com/wp-content/uploads/sites/90/2019/11/moore.jpg?w=1000&h=600&crop=1" />
-  {% endif %}
+preview: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/es-090517-thinking-face-emoji-1504643347.jpg?crop=1.00xw:1.00xh;0,0&resize=640:*"
+
 color: yellow
 ---
 ![image]({{ page.img | relative_url }})
