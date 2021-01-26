@@ -2,6 +2,7 @@
 layout: post
 title: What's In A Name?
 tags: [writing, personal]
+page.summary: many people are wondering this
 feature-img: "assets/img/thonk.jpg"
 Description: I did an etymology report on the first name Troy and last name Demers, talked about religion, the bible, elon musk, hockey, and the peanuts comic strips
 img: "assets/img/thonk.jpg preview=TRUE"
