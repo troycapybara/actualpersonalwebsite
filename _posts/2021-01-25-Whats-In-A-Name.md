@@ -6,7 +6,7 @@ page.summary: many people are wondering this
 feature-img: "assets/img/thonk.jpg"
 Description: I did an etymology report on the first name Troy and last name Demers, talked about religion, the bible, elon musk, hockey, and the peanuts comic strips
 img: "assets/img/thonk.jpg preview=TRUE"
-summary_large_image: "assets/img/thonk.jpg"
+summary_large_image: "https://i.imgur.com/QMEpfLE.jpg"
 color: yellow
 ---
 ![image]({{ page.img preview=TRUE | relative_url }})
