@@ -4,12 +4,14 @@ url: "troydemers.me"
 title: Troy Demers # site's title
 description: TKD # used by search engines
 tagline: Troy Demers is an influencer marketing manager.
+image: "assets/img/thonk.jpg"
 defaults:
   - 
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      image: assets/img/triangle.png # seo tag
+    
+    # seo tag
 
 future: true
 
