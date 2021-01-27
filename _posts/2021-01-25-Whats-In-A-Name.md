@@ -5,6 +5,7 @@ tags: [writing, personal]
 page.summary: many people are wondering this
 feature-img: "assets/img/thonk.jpg"
 Description: I did an etymology report on the first name Troy and last name Demers, talked about religion, the bible, elon musk, hockey, and the peanuts comic strips
+color: yellow
  {% if page.image %}
     <meta property="og:image" content="{{page.image}}" />
     <meta name="twitter:image" content="{{page.image}}" />
@@ -12,7 +13,6 @@ Description: I did an etymology report on the first name Troy and last name Deme
     <meta property="og:image" content="https://i.imgur.com/QMEpfLE.jpg" />
     <meta name="twitter:image" content="https://i.imgur.com/QMEpfLE.jpg" />
   {% endif %}
-color: yellow
 ---
 ![image]({{ page.img | relative_url }})
 
