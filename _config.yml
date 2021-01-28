@@ -28,7 +28,7 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: Jersey-based <br/> Influencer Marketing Manager, <br/> poet & social savant <br/> content creator and consumer.</code>
+  header_text: Jersey-based <br/> Influencer Marketing Manager, <br/> data driven + creative livin', <br/> poet + social savant, <br/> content creator + consumer.</code>
   header_feature_image: assets/img/homepagebanner2.png
   footer_text: Coded and Designed by Troy Demers. Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
