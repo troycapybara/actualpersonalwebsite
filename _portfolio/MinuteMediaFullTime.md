@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Minute Media Full-Time
-permalink: /portfolio/MinuteMediaFullTime/
 feature-img: "assets/img/bocloud.jpg"
 img: "assets/img/mmfulltime.jpg"
 date: 2021-01-28
