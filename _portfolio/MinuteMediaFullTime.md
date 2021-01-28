@@ -11,7 +11,7 @@ I love working for Minute Media. Every day there's a new challenge to face which
 
 1. Responsible for day to day management of relationships with influencer accounts, new influencer outreach, and cost/performance analysis for MM’s network of thousands of influencers.
 2. Built influencer program for [FanSided’s](https://fansided.com/network/entertainment/) Entertainment sites from 0 in June 2020 to 2.3 million pageviews in December 2020. <br/>
-![ENT]"https://raw.githubusercontent.com/troycapybara/actualpersonalwebsite/master/assets/img/portfolio/FanSidedEntertainment.png)
+![ENT]https://raw.githubusercontent.com/troycapybara/actualpersonalwebsite/master/assets/img/portfolio/FanSidedEntertainment.png)
 3. Boosted influencer program for [Mental Floss](https://www.mentalfloss.com/) from 13 million pageviews in 2019 to 44 million pageviews in 2020, increase of 238%.
 <br/>
 ![MF2019](https://raw.githubusercontent.com/troycapybara/actualpersonalwebsite/master/assets/img/portfolio/MentalFloss2019.png) <br/>
