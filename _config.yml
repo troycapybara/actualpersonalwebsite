@@ -30,7 +30,7 @@ theme_settings:
   # Header and footer text
   header_text: Jersey-based Influencer Marketing Manager, poet, social savant, content creator and consumer.</code>
   header_feature_image: assets/img/homepagebanner2.png
-  footer_text: Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  footer_text: Coded and Designed by Troy Demers. Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
