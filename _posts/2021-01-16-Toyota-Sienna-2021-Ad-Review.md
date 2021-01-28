@@ -22,7 +22,7 @@ This year, I'm building a brand new PC which I figure should lead to having more
 I had seen this "Lucky" commercial for the Toyota Sienna minivan a few times while watching football, where the driver and passengers are VIPs driving to a theater and getting backstage. I immediately had a lot of thoughts about it, so I play the full 30 second ad spot, as well as give my thoughts in the video below. Check it out and let me know what you think. And as always, don't forget to subscribe!
 
 <p align="center">
-![sienna](http://www.youtube.com/watch?v=YZNS7Ob5Z64)
+[![https://raw.githubusercontent.com/troycapybara/actualpersonalwebsite/master/assets/img/sienna.jpg](https://raw.githubusercontent.com/troycapybara/actualpersonalwebsite/master/assets/img/sienna.jpg)](https://www.youtube.com/watch?v=YZNS7Ob5Z64 "Ad Review: 2021 Toyota Sienna Edition ("Lucky")")
 </p>
 
 -Troy
