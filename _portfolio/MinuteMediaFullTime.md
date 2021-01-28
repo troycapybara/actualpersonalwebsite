@@ -20,3 +20,5 @@ I love working for Minute Media. Every day there's a new challenge to face which
 5. Diligently monitored traffic quality for all influencers across MM’s several brands in Google Analytics and Data Studio.
 6. Ensured proper deployment of ads on all platforms and reported synthesized data to management in order to maximize ROI.
 7. On-camera talent for FanSided’s [Sport & Order.](https://www.facebook.com/fansided/videos/372000297431587/) 
+
+![image]({{ page.img | relative_url }})
