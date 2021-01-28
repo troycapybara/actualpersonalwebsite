@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Minute Media
+title: Minute Media Internship
 feature-img: "assets/img/bocloud.jpg"
-img: "assets/img/portfolio/minutemedialogo.png"
+img: "assets/img/mminternship.jpg"
 date: 2018-06-01
 tags: [advertising, photoshop, design, copywriting]
 ---
